@@ -14,8 +14,8 @@
  # If you copy open source code, consider giving credit 
  # Credits    : Zphisher, MaskPhish, AdvPhishing 
  # Env        : #!/usr/bin/env python 
-  
- """ 
+
+
  MIT License 
   
  Copyright (c) 2023 GEPENG 
